@@ -3,8 +3,10 @@
 
 **Problem description**: Identify the signatures at a frequency record in order to generate lack registration for students. It is not in the signature validation scope itself.
 
+**Descrição do Problema**:  Identificar a existência ou não das assinaturas em uma ficha de frequência afim de gerar registro de falta para os alunos. Não está no escopo a validação da assinatura em si.
+
 **Input:**  
-![Input](https://raw.githubusercontent.com/CriativaSoft/TableAnalysisBoofCV/master/data/wiki/frequencia.png)
+![Input](data/wiki/frequencia.png)
 
 **Output:**  
-![Input](https://raw.githubusercontent.com/CriativaSoft/TableAnalysisBoofCV/master/data/wiki/Etapa6.gif)
+![Input](data/wiki/Etapa6.gif)
